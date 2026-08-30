@@ -1,0 +1,55 @@
+## CERN Open Hardware Licence v2 - Strongly Reciprocal
+CERN-OHL-S v2.0
+## PREAMBLE
+Open Hardware Generally: The CERN Open Hardware Licence (“CERN-OHL”) is a set of standard licences designed for open hardware designs. Its goal is to foster collaboration and sharing among hardware designers, manufacturers, and developers.
+The Strongly Reciprocal Variant: This variant (CERN-OHL-S) requires that if you modify the design and distribute or make available those modifications—or any physical hardware derived from them—you must make the complete source code and design documentation available to all recipients under the exact same licence terms.
+------------------------------
+## 1. DEFINITIONS
+
+* “Licence” means this CERN Open Hardware Licence v2 - Strongly Reciprocal.
+* “Source” means the design documentation, drawings, schematics, CAD files, code, software, or text files used to create, manufacture, test, or operate the Hardware.
+* “Hardware” means any physical object, component, mechanism, or system manufactured or constructed based on the Source.
+* “Product” means any object or system that embeds or incorporates the Hardware.
+* “Contributor” means any natural or legal person who modifies the Source or contributes code, text, designs, or documentation to it.
+* “Licensor” means the individual or entity granting rights under this Licence.
+* “You” means the individual or legal entity exercising permissions granted by this Licence.
+
+------------------------------
+## 2. GRANT OF RIGHTS & LICENCE PERMISSIONS## 2.1 Copyright and Design Rights Grant
+Subject to the terms and conditions of this Licence, the Licensor and each Contributor hereby grant You a worldwide, royalty-free, non-exclusive, perpetual, irrevocable license to:
+
+* Reproduce, copy, display, run, modify, and create derivative works of the Source.
+* Manufacture, construct, assemble, test, import, and operate the Hardware derived from the Source.
+* Distribute, sell, lease, or make available copies of the Source, modified versions of the Source, and Hardware constructed from it.
+
+## 2.2 Patent License Grant
+Subject to the terms and conditions of this Licence, each Contributor hereby grants You a worldwide, royalty-free, non-exclusive, perpetual, irrevocable patent license to make, have made, use, sell, offer for sale, import, and otherwise transfer the Hardware, where such license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their contribution alone or by combination of their contribution with the Source.
+------------------------------
+## 3. CONDITIONAL RECIPROCITY & DISTRIBUTION CONDITIONS
+Your right to distribute, make available, or manufacture the Source and Hardware is strictly conditional upon Your compliance with the following reciprocity obligations:
+## 3.1 Retention of Notices
+You must retain all copyright notices, trademark indicators, liability disclaimers, and licensing identifiers embedded within the Source. You must include a prominent copy of this Licence text with any distribution of the Source or Hardware.
+## 3.2 Downstream Source Availability (Strong Reciprocity)
+If You distribute or make available modified versions of the Source, or distribute physical Hardware manufactured from the Source or its derivatives, You must:
+
+* License the modified Source under the exact same licence terms (CERN-OHL-S v2.0).
+* Provide clear, conspicuous access to the complete, machine-readable Source files (including all manufacturing files, BOMs, schematics, Gerber data, and firmware code) to any recipient of the Source or Hardware.
+* Ensure the Source is delivered via an open, accessible, and standard digital distribution method (such as a public repository like GitHub) at no cost beyond the physical medium of transfer.
+
+## 3.3 Hardware Tagging and Markings
+Where physically practicable, any piece of Hardware manufactured from the Source must bear a visible, permanent engraving, label, or digital asset identifier marking pointing back to the open-source repository where the compliant Source code is hosted.
+------------------------------
+## 4. INTELLECTUAL PROPERTY & PATENT DEFENCE
+
+* Patent Retaliation Clause: If You institute patent litigation against any entity or Contributor (including a cross-claim or counterclaim in a lawsuit) alleging that the Source or Hardware infringes a patent, then any patent licenses and permissions granted to You under this Licence for that specific technology shall terminate automatically as of the date such litigation is filed.
+* No Trademark Rights: This Licence does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor or Contributors except as required for reasonable and customary use in describing the origin of the Source.
+
+------------------------------
+## 5. DISCLAIMER OF LIABILITY & NO WARRANTY## 5.1 As-Is Provision
+THE SOURCE AND HARDWARE ARE PROVIDED BY THE LICENSOR AND CONTRIBUTORS ON AN "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE.
+## 5.2 Limitation of Liability
+IN NO EVENT AND UNDER NO LEGAL THEORY, WHETHER IN TORT (INCLUDING NEGLIGENCE), CONTRACT, OR OTHERWISE, SHALL ANY CONTRIBUTOR OR THE LICENSOR BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY CHARACTER ARISING AS A RESULT OF THIS LICENCE OR THE USE OR INABILITY TO USE THE HARDWARE, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+------------------------------
+## 6. TERMINATION
+Your rights under this Licence shall terminate automatically if You fail to comply with any of its conditions (such as failing to make your modified source files public). Upon termination, You must immediately cease any further manufacturing, distribution, or commercialization of the Hardware and Source derived from this project. If all violations are cured within 30 days of your receipt of notice of non-compliance, your rights will be fully reinstated.
+------------------------------
