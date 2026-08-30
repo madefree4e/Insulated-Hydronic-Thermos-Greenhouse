@@ -1,3 +1,6 @@
+Licensed under the CERN Open Hardware Licence v2 - Strongly Reciprocal (CERN-OHL-S v2.0). Full text is available in the LICENSE file.
+
+
 # Insulated Hydronic "Thermos" Greenhouse (V1.0)
 **A Zero-Grid, R-30 Year-Round Food Production System for Sub-Zero Climates**
 
